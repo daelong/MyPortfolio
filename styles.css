@@ -114,6 +114,7 @@ a {
 }
 .cukbm_box {
   display: flex;
+  justify-content: center;
   flex-direction: row;
 }
 .cukbm_content_box {
@@ -128,21 +129,21 @@ a {
   margin-bottom: 10px;
 }
 .cukmb {
-  width: 250px;
+  width: 20%;
 }
 .myblog_box {
   margin-top: 50px;
   display: flex;
   flex-direction: row;
+  justify-content: center;
 }
 .myblog {
-  width: 250px;
+  width: 20%;
 }
 .myblog_content_box {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  align-items: center;
   padding-left: 20px;
 }
 .myblog_web_work {
