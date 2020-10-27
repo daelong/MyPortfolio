@@ -130,6 +130,7 @@ a {
 }
 .cukmb {
   width: 250px;
+  height: auto;
 }
 .myblog_box {
   margin-top: 50px;
@@ -139,6 +140,7 @@ a {
 }
 .myblog {
   width: 250px;
+  height: auto;
 }
 .myblog_content_box {
   display: flex;
